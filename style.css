@@ -1,0 +1,19 @@
+.body
+{
+    align-items: center;
+}
+
+.travel_mainDiv
+{
+    border:1px solid lightgrey;
+}
+
+.travel_mainDiv
+{
+    width:100px;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin:20px;
+}
